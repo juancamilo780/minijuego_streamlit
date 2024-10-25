@@ -6,7 +6,7 @@ st.write("¡Hola, mi amor! Bienvenida al mini-juego donde descubrirás cuánto t
 
 # Botón para la opción "Dime cuánto me amas"
 if st.button("Dime cuánto me amas"):
-    st.write("Te amo más de lo que cualquier variable podría almacenar. 💖")
+    st.write("Te amo más de lo que te puedas imaginar. 💖")
 
 # Botón para la opción "¿Cuántas veces piensas en mí?"
 if st.button("¿Cuántas veces piensas en mí?"):
@@ -14,4 +14,4 @@ if st.button("¿Cuántas veces piensas en mí?"):
 
 # Botón para la opción "Mensaje sorpresa"
 if st.button("Mensaje sorpresa"):
-    st.write("Eres el bug más lindo en mi código y la excepción que siempre quiero manejar. 🥰")
+    st.write("Eres lo mas valioso de mi vida, mi casualidad mas bonita. 🥰")
